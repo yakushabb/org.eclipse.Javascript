@@ -1,3 +1,4 @@
 {
+	"end-of-life": "This application is no longer maintained because the Eclipse Foundation no longer creates standalone RCP apps.",
 	"only-arches": ["x86_64"]
 }
